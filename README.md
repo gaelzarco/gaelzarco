@@ -58,9 +58,11 @@
     
   </div> -->
   
+  
+  
   <div align='center'>
-    <h3>Connect With Me and Let's Create Something ☕</h3>
-          <a href="https://linkedin.com/in/gaelzarco" target="blank">
+  <h3>Let's Create Something ☕</h3>
+      <a href="https://linkedin.com/in/gaelzarco" target="blank">
         <img
         src="https://img.shields.io/badge/LinkedIn-LinkedIn/?logo=linkedin&color=black&style=for-the-badge"
         alt="linkedIn"
