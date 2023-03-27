@@ -1,16 +1,5 @@
   <div align='center'>
-<!--     <h1>Hi, I am Gael Zarco 👋</h1>
-    <h3></h3> -->
-<!--      <div align='center'>
-      <a href="https://linkedin.com/in/gaelzarco" target="blank">
-        <img
-        src="https://img.shields.io/badge/LinkedIn-LinkedIn/?logo=linkedin&color=black&style=for-the-badge"
-        alt="linkedIn"
-        />
-      </a>
-    </div> -->
-  <img src='https://readmeimg.s3.us-west-2.amazonaws.com/GitHub+Banner.gif' width='100%'>
-  
+    <img src='https://readmeimg.s3.us-west-2.amazonaws.com/GitHub+Banner.gif' width='100%'>
   </div>
   
   ### Programming Languages
@@ -52,14 +41,6 @@
     <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
     <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
   </div>
-  
-<!--   <div align='left'>
-    <h3>Currently Learning 📝</h3>
-    
-    
-  </div> -->
-  
-  
   
   <div align='center'>
   <h3>Let's Create Something ☕</h3>
