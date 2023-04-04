@@ -18,12 +18,12 @@
     <img src='https://img.shields.io/badge/React-React/?logo=react&color=black&style=for-the-badge' alt='React'>
     <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
     <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
-    <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
   </div>
   
   ### Back-End Technologies
 
   <div align='left'>
+    <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
     <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
     <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'>
     <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'>
