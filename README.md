@@ -1,6 +1,6 @@
   <div>
     
-  # Gael Zarco 🇲🇽
+  # Gael Zarco 🚀
     
   I'm a former restaurant industry professional turned Full-Stack Web Engineer from Las Vegas. I create fast, responsive, and accessible web applications using TypeScript, React, NextJS, NodeJS, and TailwindCSS. I'm currently looking for a full-time position as an entry-level Software Engineer.
     
