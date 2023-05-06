@@ -74,4 +74,6 @@
     
   <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
   
+  <img src='https://img.shields.io/badge/Supabase-Supabase/?logo=supabase&color=black&style=for-the-badge' alt='Supabase'>
+  
   </div>
