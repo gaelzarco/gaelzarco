@@ -36,6 +36,8 @@
 
   <img src='https://img.shields.io/badge/React-React/?logo=react&color=black&style=for-the-badge' alt='React'>
   
+    <img src='https://img.shields.io/badge/Redux-Redux/?logo=redux&color=black&style=for-the-badge' alt='Redux'>
+  
   <img src='https://img.shields.io/badge/Svelte-Svelte/?logo=svelte&color=black&style=for-the-badge' alt='Svelte'>
     
   <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
