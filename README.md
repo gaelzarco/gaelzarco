@@ -2,7 +2,7 @@
     
   # Gael Zarco
     
-  I'm a former restaurant professional turned Software Engineer from Las Vegas. I create fast, responsive, and accessible web applications using TypeScript, NextJS, SvelteKit, Go, Fiber, and TailwindCSS. I love learning new programming languages and experimenting with frameworks/libraries. I'm currently looking for a full-time position as an entry-level Web Engineer.
+  I'm a former restaurant professional turned Software Engineer from Las Vegas. I create fast, responsive, and accessible web applications using TypeScript, NextJS, SvelteKit, Go, Fiber, and TailwindCSS. I love learning new programming languages and experimenting with frameworks/libraries. I'm currently looking for a full-time position as an entry-level Full Stack Engineer.
     
   <a href="https://linkedin.com/in/gaelzarco" target="blank">
        
@@ -59,6 +59,8 @@
   <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'>
     
   <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'>
+  
+  <img src='https://img.shields.io/badge/Lambda-Lambda/?logo=amazonlambda&color=black&style=for-the-badge' alt='AWS Lambda'>
     
   <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
     
