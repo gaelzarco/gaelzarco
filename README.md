@@ -60,7 +60,7 @@
     
   <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'>
   
-  <img src='https://img.shields.io/badge/Lambda-Lambda/?logo=amazonlambda&color=black&style=for-the-badge' alt='AWS Lambda'>
+  <img src='https://img.shields.io/badge/Lambda-Lambda/?logo=awslambda&color=black&style=for-the-badge' alt='AWS Lambda'>
     
   <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
     
