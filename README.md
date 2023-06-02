@@ -14,7 +14,7 @@
   
   ---
   
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" />
+<!--   <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" /> -->
   
   <div align='left'>
   
@@ -42,7 +42,7 @@
     
   <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
     
-  <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
+<!--   <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'> -->
     
   </div>
   
