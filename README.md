@@ -14,7 +14,7 @@
   
   ---
   
-<!--   <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" /> -->
+  <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" />
   
   <div align='left'>
   
