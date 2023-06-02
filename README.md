@@ -50,7 +50,7 @@
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
   
-  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=sveltekit&color=black&style=for-the-badge' alt='SvelteKit'>
+  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'>
   
   <img src='https://img.shields.io/badge/GoFiber-GoFiber/?logo=gofiber&color=black&style=for-the-badge' alt='GoFiber'>
     
@@ -81,7 +81,5 @@
   <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
     
   <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
-  
-  <img src='https://img.shields.io/badge/Supabase-Supabase/?logo=supabase&color=black&style=for-the-badge' alt='Supabase'>
   
   </div>
