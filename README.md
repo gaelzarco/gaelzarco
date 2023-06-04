@@ -38,7 +38,7 @@
   
   <img src='https://img.shields.io/badge/Redux-Redux/?logo=redux&color=black&style=for-the-badge' alt='Redux'>
   
-  <img src='https://img.shields.io/badge/Svelte-Svelte/?logo=svelte&color=black&style=for-the-badge' alt='Svelte'>
+  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='Svelte'>
     
   <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
     
@@ -51,8 +51,6 @@
   ### Back-End Technologies
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
-  
-  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'>
   
   <img src='https://img.shields.io/badge/GoFiber-GoFiber/?logo=gofiber&color=black&style=for-the-badge' alt='GoFiber'>
     
