@@ -26,7 +26,7 @@
     
   <img src='https://img.shields.io/badge/Python-Python/?logo=python&color=black&style=for-the-badge' alt='Python'>
     
-  <img src='https://img.shields.io/badge/Go-Go/?logo=go&color=black&style=for-the-badge' alt='Go'>
+  <img src='https://img.shields.io/badge/Rust-Rust/?logo=rust&color=black&style=for-the-badge' alt='Rust'>
   
   </div>
   
@@ -52,7 +52,7 @@
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
   
-  <img src='https://img.shields.io/badge/GoFiber-GoFiber/?logo=gofiber&color=black&style=for-the-badge' alt='GoFiber'>
+<!--   <img src='https://img.shields.io/badge/GoFiber-GoFiber/?logo=gofiber&color=black&style=for-the-badge' alt='GoFiber'> -->
     
   <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
     
