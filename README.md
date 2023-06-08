@@ -2,7 +2,7 @@
     
   # Gael Zarco
     
-  I'm a former restaurant server turned Software Engineer from Las Vegas. I create fast, responsive, and accessible web applications using TypeScript, NextJS, SvelteKit, Go, Fiber, and TailwindCSS. I love learning new programming languages and experimenting with frameworks/libraries. I'm currently seeking a full-time position as a Full-Stack Engineer.
+  I'm a former restaurant server turned Software Engineer from Las Vegas. I create fast, responsive, and accessible web applications using TypeScript, NextJS, SvelteKit, Rust, Actix, and TailwindCSS. I love learning new programming languages and experimenting with frameworks/libraries. I'm currently seeking a full-time position as a Full-Stack Engineer.
     
   <a href="https://linkedin.com/in/gaelzarco" target="blank">
        
