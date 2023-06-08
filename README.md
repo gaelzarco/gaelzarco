@@ -38,11 +38,11 @@
   
   <img src='https://img.shields.io/badge/Redux-Redux/?logo=redux&color=black&style=for-the-badge' alt='Redux'>
   
-  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='Svelte'>
+  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'>
     
   <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
     
-<!--   <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'> -->
+  <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
     
   </div>
   
