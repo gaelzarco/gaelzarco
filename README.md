@@ -2,7 +2,13 @@
     
   # Gael Zarco
     
-  I'm a former restaurant server turned Software Engineer from Las Vegas. I create fast, responsive, and accessible web applications using TypeScript, NextJS, SvelteKit, Rust, Actix, and TailwindCSS. I love learning new programming languages and experimenting with frameworks/libraries. I'm currently seeking a full-time position as a Full-Stack Engineer.
+  I'm a Full-Stack Engineer from Las Vegas, Nevada with 3+ years of education & experience in software. I love building web applications and mostly work with the MERN and T3 stack. I am currently seeking a full-time position as a Full-Stack Engineer.
+
+  ##### - Coursework towards AAS in Software Programming from CSN (2019 - 2021)
+  
+  ##### - Software Development Bootcamp graduate from UNLV (2021 - 2022)
+
+  <br>
     
   <a href="https://linkedin.com/in/gaelzarco" target="blank">
        
@@ -11,12 +17,60 @@
   </a>
     
   </div>
-  
+
+  <div align='left'>
+
   ---
+
+  ### Currently Using
+    
+  <img src="https://img.shields.io/badge/TypeScript-TypeScript/?logo=typescript&color=black&style=for-the-badge" alt="TypeScript">
+
+  <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
+
+  <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
+
+  <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
+
+  <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
+
+  <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
+
+  <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'>
+  
+  </div>
+
+  <div align='left'>
+
+  ### Experimenting
+
+  <img src='https://img.shields.io/badge/Rust-Rust/?logo=rust&color=black&style=for-the-badge' alt='Rust'>
+
+  <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
+
+  <img src='https://img.shields.io/badge/Actix-Actix/?logo=actix&color=black&style=for-the-badge' alt='Actix'>
+
+  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'>  
+  
+  </div>
+
+  <div align='left'>
+
+  ### Backpack
+
+  <img src='https://img.shields.io/badge/Python-Python/?logo=python&color=black&style=for-the-badge' alt='Python'>
+
+  <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'>
+
+  <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'>
+
+  <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
+  
+  </div>
   
 <!--   <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" /> -->
   
-  <div align='left'>
+  <!-- <div align='left'>
   
   ### Programming Languages
 
@@ -52,7 +106,7 @@
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
   
-<!--   <img src='https://img.shields.io/badge/GoFiber-GoFiber/?logo=gofiber&color=black&style=for-the-badge' alt='GoFiber'> -->
+<img src='https://img.shields.io/badge/GoFiber-GoFiber/?logo=gofiber&color=black&style=for-the-badge' alt='GoFiber'>
     
   <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
     
@@ -84,4 +138,4 @@
     
   <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
   
-  </div>
+  </div> -->
