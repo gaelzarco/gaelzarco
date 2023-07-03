@@ -4,9 +4,9 @@
     
   I'm a Full-Stack Engineer from Las Vegas, Nevada with 3+ years of education & experience in software. I love building web applications and mostly work with MERN and T3 stack. I am currently seeking a full-time position as a Full-Stack Engineer.
 
-  ##### - Coursework towards AAS in Software Programming from CSN (2019 - 2021)
+  ##### Coursework towards AAS in Software Programming from CSN (2019 - 2021)
   
-  ##### - Software Development Bootcamp graduate from UNLV (2021 - 2022)
+  ##### Software Development Bootcamp graduate from UNLV (2021 - 2022)
 
   <br>
     
@@ -25,6 +25,8 @@
   ### Currently Using
     
   <img src="https://img.shields.io/badge/TypeScript-TypeScript/?logo=typescript&color=black&style=for-the-badge" alt="TypeScript">
+  
+  <img src="https://img.shields.io/badge/JavaScript-JavaScript/?logo=javascript&color=black&style=for-the-badge" alt="JavaScript">
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
 
