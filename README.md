@@ -67,6 +67,10 @@
   <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'>
 
   <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
+
+  <img src='https://img.shields.io/badge/MongoDB-MongoDB/?logo=mongodb&color=black&style=for-the-badge' alt='MongoDB'>
+    
+  <img src='https://img.shields.io/badge/PostgreSQL-PostgreSQL/?logo=postgresql&color=black&style=for-the-badge' alt='PostgreSQL'>
   
   </div>
   
