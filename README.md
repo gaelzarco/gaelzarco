@@ -2,7 +2,7 @@
     
   # Gael Zarco
     
-  I'm a Full-Stack Engineer from Las Vegas, Nevada with 3+ years of education & experience in software. I love building web applications and mostly work with Next.js. I am currently seeking a full-time position as a Full-Stack Engineer.
+  I'm a Full-Stack Engineer from Las Vegas, Nevada with 3+ years of education & experience in software. I love building web applications and mostly work with Next.js. I am currently working as an IT Technician and am seeking a full-time position as a Full-Stack Engineer.
 
   ##### Coursework towards AAS in Software Programming from CSN (2019 - 2021)
   
