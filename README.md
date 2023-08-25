@@ -30,13 +30,17 @@
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
 
+  <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
+
   <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
 
   <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
+  
+  <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
+
+  <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'>
 
   <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
-
-  <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
 
   <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'>
   
@@ -50,7 +54,7 @@
 
   <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
 
-  <img src='https://img.shields.io/badge/Actix-Actix/?logo=actix&color=black&style=for-the-badge' alt='Actix'>
+  <!-- <img src='https://img.shields.io/badge/Actix-Actix/?logo=actix&color=black&style=for-the-badge' alt='Actix'> -->
 
   <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'>  
   
@@ -65,8 +69,6 @@
   <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'>
 
   <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'>
-
-  <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
 
   <img src='https://img.shields.io/badge/MongoDB-MongoDB/?logo=mongodb&color=black&style=for-the-badge' alt='MongoDB'>
     
