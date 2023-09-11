@@ -36,7 +36,7 @@
 
   <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
   
-  <img src='https://img.shields.io/badge/PlanetScale-PlanetScale/?logo=planetscale&color=black&style=for-the-badge' alt='PlanetScale'>
+  <img src='https://img.shields.io/badge/MySQL-MySQL/?logo=mysql&color=black&style=for-the-badge' alt='MySQL'>
 
   <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'>
 
