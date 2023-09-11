@@ -50,13 +50,17 @@
 
   ### Experimenting
 
-  <img src='https://img.shields.io/badge/Rust-Rust/?logo=rust&color=black&style=for-the-badge' alt='Rust'>
+  <img src='https://img.shields.io/badge/Astro-Astro/?logo=astro&color=black&style=for-the-badge' alt='Astro'>
+
+  <img src='https://img.shields.io/badge/Bun-Bun/?logo=bun&color=black&style=for-the-badge' alt='Bun'>
 
   <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
 
+  <img src='https://img.shields.io/badge/Rust-Rust/?logo=rust&color=black&style=for-the-badge' alt='Rust'>
+
   <!-- <img src='https://img.shields.io/badge/Actix-Actix/?logo=actix&color=black&style=for-the-badge' alt='Actix'> -->
 
-  <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'>  
+  <!-- <img src='https://img.shields.io/badge/SvelteKit-SvelteKit/?logo=svelte&color=black&style=for-the-badge' alt='SvelteKit'> -->  
   
   </div>
 
