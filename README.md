@@ -40,8 +40,6 @@
 
   <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'>
 
-  <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
-
   <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'>
   
   </div>
@@ -77,6 +75,8 @@
   <img src='https://img.shields.io/badge/MongoDB-MongoDB/?logo=mongodb&color=black&style=for-the-badge' alt='MongoDB'>
     
   <img src='https://img.shields.io/badge/PostgreSQL-PostgreSQL/?logo=postgresql&color=black&style=for-the-badge' alt='PostgreSQL'>
+
+  <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
   
   </div>
   
