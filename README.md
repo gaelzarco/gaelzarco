@@ -25,8 +25,12 @@
   ### Currently Using
     
   <img src="https://img.shields.io/badge/TypeScript-TypeScript/?logo=typescript&color=black&style=for-the-badge" alt="TypeScript">
-  
-  <img src="https://img.shields.io/badge/JavaScript-JavaScript/?logo=javascript&color=black&style=for-the-badge" alt="JavaScript">
+
+  <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
+
+  <img src='https://img.shields.io/badge/Rust-Rust/?logo=rust&color=black&style=for-the-badge' alt='Rust'>
+
+  <img src='https://img.shields.io/badge/Actix-Actix/?logo=actix&color=black&style=for-the-badge' alt='Actix'>
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
 
@@ -35,32 +39,18 @@
   <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
 
   <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
-
-  <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
-  
-  <img src='https://img.shields.io/badge/MySQL-MySQL/?logo=mysql&color=black&style=for-the-badge' alt='MySQL'>
-
-  <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'>
-
-  <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'>
   
   </div>
 
-  <div align='left'>
+  <!-- <div align='left'> -->
 
-  ### Experimenting
+  <!-- ### Experimenting -->
 
   <!-- <img src='https://img.shields.io/badge/Astro-Astro/?logo=astro&color=black&style=for-the-badge' alt='Astro'> -->
 
-  <img src='https://img.shields.io/badge/ThreeJS-ThreeJS/?logo=threedotjs&color=black&style=for-the-badge' alt='ThreeJS'>
-
-  <img src='https://img.shields.io/badge/Rust-Rust/?logo=rust&color=black&style=for-the-badge' alt='Rust'>
-
-  <img src='https://img.shields.io/badge/Actix-Actix/?logo=actix&color=black&style=for-the-badge' alt='Actix'>
-
-  <img src='https://img.shields.io/badge/Turso-Turso/?logo=turso&color=black&style=for-the-badge' alt='Turso'>
+  <!-- <img src='https://img.shields.io/badge/Turso-Turso/?logo=turso&color=black&style=for-the-badge' alt='Turso'> -->
   
-  </div>
+  <!-- </div> -->
 
   <div align='left'>
 
@@ -77,6 +67,16 @@
   <img src='https://img.shields.io/badge/PostgreSQL-PostgreSQL/?logo=postgresql&color=black&style=for-the-badge' alt='PostgreSQL'>
 
   <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
+
+  <img src="https://img.shields.io/badge/JavaScript-JavaScript/?logo=javascript&color=black&style=for-the-badge" alt="JavaScript">
+
+  <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
+  
+  <img src='https://img.shields.io/badge/MySQL-MySQL/?logo=mysql&color=black&style=for-the-badge' alt='MySQL'>
+
+  <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'>
+
+  <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'>
   
   </div>
   
