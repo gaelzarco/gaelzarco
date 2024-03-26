@@ -56,35 +56,35 @@
   
   <!-- </div> -->
 
-  <div align='left'>
+  <!-- <div align='left'>
 
-  ### Backpack
+  <!-- ### Backpack -->
 
-  <img src='https://img.shields.io/badge/Python-Python/?logo=python&color=black&style=for-the-badge' alt='Python'>
+  <!-- <img src='https://img.shields.io/badge/Python-Python/?logo=python&color=black&style=for-the-badge' alt='Python'> -->
 
-  <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'>
+  <!-- <img src='https://img.shields.io/badge/Flask-Flask/?logo=flask&color=black&style=for-the-badge' alt='Flask'> -->
 
-  <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'>
+  <!-- <img src='https://img.shields.io/badge/Express-Express/?logo=express&color=black&style=for-the-badge' alt='ExpressJS'> -->
 
-  <img src='https://img.shields.io/badge/MongoDB-MongoDB/?logo=mongodb&color=black&style=for-the-badge' alt='MongoDB'>
+  <!-- <img src='https://img.shields.io/badge/MongoDB-MongoDB/?logo=mongodb&color=black&style=for-the-badge' alt='MongoDB'> -->
     
-  <img src='https://img.shields.io/badge/PostgreSQL-PostgreSQL/?logo=postgresql&color=black&style=for-the-badge' alt='PostgreSQL'>
+  <!-- <img src='https://img.shields.io/badge/PostgreSQL-PostgreSQL/?logo=postgresql&color=black&style=for-the-badge' alt='PostgreSQL'> -->
 
-  <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'>
+  <!-- <img src='https://img.shields.io/badge/Prisma-Prisma/?logo=prisma&color=black&style=for-the-badge' alt='Prisma'> -->
 
-  <img src="https://img.shields.io/badge/JavaScript-JavaScript/?logo=javascript&color=black&style=for-the-badge" alt="JavaScript">
+  <!-- <img src="https://img.shields.io/badge/JavaScript-JavaScript/?logo=javascript&color=black&style=for-the-badge" alt="JavaScript"> -->
 
-  <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'>
+  <!-- <img src='https://img.shields.io/badge/TRPC-TRPC/?logo=trpc&color=black&style=for-the-badge' alt='TRPC'> -->
   
-  <img src='https://img.shields.io/badge/MySQL-MySQL/?logo=mysql&color=black&style=for-the-badge' alt='MySQL'>
+  <!-- <img src='https://img.shields.io/badge/MySQL-MySQL/?logo=mysql&color=black&style=for-the-badge' alt='MySQL'> -->
 
-  <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'>
+  <!-- <img src='https://img.shields.io/badge/Redis-Redis/?logo=redis&color=black&style=for-the-badge' alt='Redis'> -->
 
-  <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'>
+  <!-- <img src='https://img.shields.io/badge/s3-s3/?logo=amazons3&color=black&style=for-the-badge' alt='AWS S3'> -->
   
-  </div>
+  <!-- </div> -->
   
-<!--   <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" /> -->
+  <!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=gaelzarco&show_icons=true&locale=en&theme=dark" alt="gaelzarco" /> -->
   
   <!-- <div align='left'>
   
