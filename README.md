@@ -2,11 +2,15 @@
     
   # Gael Zarco
     
-  I love building web applications and mostly work with Next.js. I am currently working as an IT Technician and am seeking a full-time position as a Full-Stack Engineer.
-
-  ##### Coursework towards AAS in Software Programming from CSN (2019 - 2021)
+  I love building web applications and am most familiar with Next.js. 
   
-  ##### Software Development Bootcamp graduate from UNLV (2021 - 2022)
+  Actively developing a 3D game in Rust and Three.js. 
+  
+  Open to building cool projects.
+
+  <!-- ##### Coursework towards AAS in Software Programming from CSN (2019 - 2021) -->
+  
+  <!-- ##### Software Development Bootcamp graduate from UNLV (2021 - 2022) -->
 
   <br>
     
