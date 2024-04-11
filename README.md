@@ -1,9 +1,7 @@
   <div>
     
   # Gael Zarco
-    
-  I love building web applications and am most familiar with Next.js. 
-  
+
   Actively developing a 3D game in Rust and Three.js. 
   
   Open to building cool projects.
