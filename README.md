@@ -2,7 +2,7 @@
     
   # Gael Zarco
 
-  ##### Computers are cool
+  ### Computers are cool
 
   <br>
     
