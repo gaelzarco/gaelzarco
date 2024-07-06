@@ -2,15 +2,11 @@
     
   # Gael Zarco
 
-  Actively developing a 3D game in Rust and Three.js. 
-  
-  Open to building cool projects.
-
   <!-- ##### Coursework towards AAS in Software Programming from CSN (2019 - 2021) -->
   
   <!-- ##### Software Development Bootcamp graduate from UNLV (2021 - 2022) -->
 
-  <br>
+  <!-- <br> -->
     
   <a href="https://linkedin.com/in/gaelzarco" target="blank">
        
