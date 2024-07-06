@@ -2,11 +2,9 @@
     
   # Gael Zarco
 
-  <!-- ##### Coursework towards AAS in Software Programming from CSN (2019 - 2021) -->
-  
-  <!-- ##### Software Development Bootcamp graduate from UNLV (2021 - 2022) -->
+  ##### Computers are cool
 
-  <!-- <br> -->
+  <br>
     
   <a href="https://linkedin.com/in/gaelzarco" target="blank">
        
