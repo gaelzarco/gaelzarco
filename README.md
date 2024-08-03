@@ -14,7 +14,7 @@
     
   </div>
 
-  <div align='left'>
+  <!-- <div align='left'>
 
   ---
 
@@ -30,13 +30,13 @@
 
   <img src='https://img.shields.io/badge/NextJS-NextJS/?logo=nextdotjs&color=black&style=for-the-badge' alt='NextJS'>
 
-  <img src='https://img.shields.io/badge/Bun-Bun/?logo=bun&color=black&style=for-the-badge' alt='Bun'>
+  <!-- <img src='https://img.shields.io/badge/Bun-Bun/?logo=bun&color=black&style=for-the-badge' alt='Bun'> -->
 
-  <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'>
+  <!-- <img src='https://img.shields.io/badge/NodeJS-NodeJS/?logo=nodedotjs&color=black&style=for-the-badge' alt='NodeJS'> -->
 
-  <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'>
+  <!-- <img src='https://img.shields.io/badge/Tailwind-Tailwind/?logo=tailwindcss&color=black&style=for-the-badge' alt= 'Tailwind CSS'> -->
   
-  </div>
+  <!-- </div> -->
 
   <!-- <div align='left'> -->
 
